@@ -11,3 +11,9 @@ The Odin Project opensource course.
 - Color & Background
 - Typography
 - Flexbox
+
+## Update
+
+'I was supposed to follow the landing page design but that was a generic design
+so I kept the generic desin but themed the landing page with anime them. The images
+used here are links of external url link from My Anime List website.'
